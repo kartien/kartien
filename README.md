@@ -1,13 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFyNTFsdzk5YWN0c2R0d25vOXF3OW5waDJia3gzOG0weXdnM3pqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="70" />
-  <span style="font-size: 2em; font-weight: bold; margin-left: 10px;">Hola, mi nombre es Dario 👋</span>
-</div>
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFyNTFsdzk5YWN0c2R0d25vOXF3OW5waDJia3gzOG0weXdnM3pqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="70"/> Hola, mi nombre es Dario 👋 
 
-<br>
-
-<span style="font-size: 2em; font-weight: bold;">Programador Backend</span>
-
-
+# Programador Backend 
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh5ODk3cWM3cmowdnpseDJzc20xd2hxc2VzbjkyYnduazFyd3pvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif"/>
 <!-- ## Hi there 👋 -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kartierdev/)
